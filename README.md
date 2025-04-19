@@ -49,7 +49,7 @@ Zillow clone by Oyelabs helps you launch a real estate platform with advanced se
 
 <p>
   <strong>Planning to launch your own property platform?</strong><br>
-  Reach out to us at <a href="mailto:grow@oyelabs.com">grow@oyelabs.com</a> or visit 
+  Reach out to us at <a href="mailto:myoyelabs@gmail.com">myoyelabs@gmail.com</a> or visit 
   <a href="https://www.oyelabs.com" target="_blank">www.oyelabs.com</a> to get started. 
   Let’s build your real estate marketplace with MoonEstate!
 </p>
