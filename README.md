@@ -3,11 +3,11 @@ Zillow clone by Oyelabs helps you launch a real estate platform with advanced se
 <h3>MOONESTATE – A Customizable Zillow Clone for Your Real Estate Platform</h3>
 <p>
   <strong>MoonEstate</strong> by Oyelabs is a robust 
-  <a href="https://oyelabs.com/zillow-clone-script/" target="_blank">Zillow clone script</a> 
-  built for entrepreneurs aiming to launch a fully-featured and customizable real estate marketplace.
-  Whether you're focusing on residential rentals, property sales, or commercial listings, MoonEstate empowers
-  you to create a seamless platform with location-based search, map integration, and dynamic property filters —
-  all backed by a user-friendly design.
+<a href="https://oyelabs.com/zillow-clone-script/?utm_source=Social+&utm_medium=github&utm_campaign=github_listing" target="_blank">Zillow Clone Script</a> 
+built for entrepreneurs aiming to launch a fully-featured and customizable real estate marketplace.
+Whether you're focusing on residential rentals, property sales, or commercial listings, MoonEstate empowers
+you to create a seamless platform with location-based search, map integration, and dynamic property filters —
+all backed by a user-friendly design.
 </p>
 <p>
   Developed using modern tech stacks like Laravel, MySQL, and Flutter, MoonEstate ensures
